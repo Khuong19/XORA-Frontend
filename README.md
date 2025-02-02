@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 "# XORA-Frontend" 
 "# XORA-Frontend" 
 "# XORA-Frontend" 
+
+#Check out the website design:
+https://ui8.net/ui8/products/xora---saas-landing-page-kit?rel=jsm
